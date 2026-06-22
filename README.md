@@ -1,6 +1,6 @@
 # Hi Everyone 👋
 
-* 🚀 Fullstack & Mobile Software Engineer with strong expertise in building cross-platform products, mobile payment architectures, and DevSecOps workflows.
+* 💻 Fullstack & Mobile Software Engineer with strong expertise in building cross-platform products, mobile payment architectures, and DevSecOps workflows.
 * 🛡️ Deeply invested in internal security assessments, vulnerability auditing, and GRC compliance frameworks.
 * 💡 I love architectural clean code, automated pipelines, and turning complex problem frames into smooth digital products.
 
