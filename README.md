@@ -67,5 +67,5 @@ End-to-end delivery of web applications for international clients, using Angular
 <p align="center">
   <a href="https://linkedin.com/in/andoche-lohounme-082b3b286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:lohounmegero2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.andoche.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.andoche.me"><img src="https://raw.githubusercontent.com/lohounme/portfolio/main/public/agl-logo.svg" height="28" /></a>
 </p>
