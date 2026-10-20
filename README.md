@@ -1,10 +1,10 @@
 # Hi, I'm Andoche 👋
 
-🛡️ **DevSecOps Engineer** specialized in securing CI/CD pipelines, cloud infrastructure, and Kubernetes clusters, from risk analysis to production.
+🛡️ **DevSecOps Developer** specialized in securing CI/CD pipelines, cloud infrastructure, and Kubernetes clusters, from risk analysis to production.
 
 * 🔐 I integrate security directly into the software delivery lifecycle: SAST, SCA, secret detection, container hardening, IaC scanning, and Kubernetes admission control.
 * 📦 I secure the software supply chain: SBOM generation, cryptographic artifact signing, and threat modeling using STRIDE.
-* 🏗️ Strong foundation in Fullstack & Mobile engineering (Node.js, React, Flutter), which means I understand the code I'm securing, not just the scanner output.
+* 🏗️ Strong foundation in Fullstack & Mobile Developer (Node.js, React, Flutter), which means I understand the code I'm securing, not just the scanner output.
 * 🎓 ISO/IEC 27001:2022 and GDPR certified.
 
 💬 Ask me about: **CI/CD Security, Kubernetes Hardening, Supply Chain Security, Cloud Security (Azure).**
@@ -39,8 +39,8 @@ Fully automated 4-gate security pipeline on a Node.js/PostgreSQL API.
 ## 🚀 Background & Experience
 
 ### MÍTƆN — Founder & Lead Software Engineer
-Nationwide cross-platform real-estate rental platform, built and led end-to-end.
-Integrated 3 local mobile payment rails (MTN, Moov, Celtiis). Flutter, Firebase, Node.js, automated CI/CD.
+Development of a real estate and hotel platform (mobile app, backend, admin dashboard). Integration of mobile money payment (KKiaPay) and APDP compliance.
+Flutter, Firebase, Node.js, automated CI/CD.
 
 ### Moov Africa — Cybersecurity Technician (Internship)
 Internal vulnerability assessments on corporate telecom networks. Built a custom phishing simulation framework to strengthen employee security awareness.
