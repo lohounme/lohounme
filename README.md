@@ -5,7 +5,7 @@
 * 🔐 I integrate security directly into the software delivery lifecycle: SAST, SCA, secret detection, container hardening, IaC scanning, and Kubernetes admission control.
 * 📦 I secure the software supply chain: SBOM generation, cryptographic artifact signing, and threat modeling using STRIDE.
 * 🏗️ Strong foundation in Fullstack & Mobile Developer (Node.js, React, Flutter), which means I understand the code I'm securing, not just the scanner output.
-* 🎓 ISO/IEC 27001:2022 and GDPR certified.
+* 🎓 ISO/IEC 27001:2022 INFORMATION SECURITY ASSOCIATE™.
 
 💬 Ask me about: **CI/CD Security, Kubernetes Hardening, Supply Chain Security, Cloud Security (Azure).**
 
